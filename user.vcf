@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
+N:Lim;aakil;;;
+FN: aakil patel 
+ORG:Digitel;
+TITLE:Associate Software Engineer
+EMAIL;type=Akil Patel;type=WORK;type=pref:pakil3240@gmail.com
+TEL;type=number;type=VOICE:+91 9871125365
 item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:tech.gov.sg
